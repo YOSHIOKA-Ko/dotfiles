@@ -52,7 +52,10 @@ cask "zoom"
 
 # App Store
 mas "Desktop Calendar Plus", id: 524688159
+mas "GIPHY Capture. The GIF Maker", id: 668208984
 mas "Kromatic", id: 1049086746
+mas "LadioCast", id: 411213048
 mas "LINE", id: 539883307
+mas "PicGIF", id: 784260229
 mas "The Unarchiver", id: 425424353
 mas "Xcode", id: 497799835
