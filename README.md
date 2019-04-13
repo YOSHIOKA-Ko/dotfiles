@@ -4,6 +4,9 @@
 1. Homebrewをインストール
     - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 1. `brew doctor`でHomebrewを問題無く利用できる環境か確認
+1. brew-fileをインストール
+    - `brew install argon/mas/mas`
+    - `brew install rcmdnk/file/brew-file`
 1. `Brewfile`をローカルにダウンロードして`~/.brewfile`以下に配置
 1. `brew file install`でインストールを実行
 
