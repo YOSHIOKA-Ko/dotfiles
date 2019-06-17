@@ -16,6 +16,7 @@ brew "peco"
 brew "ghq"
 brew "mas"
 brew "ffmpeg"
+brew "pngquant"
 
 # Software
 cask "1password"
